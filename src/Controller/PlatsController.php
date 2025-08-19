@@ -11,12 +11,12 @@ class PlatsController extends AbstractController
 {
 
     #[Route(path: '/plats', name: 'plats.show')]
-    function index(Request $request): Response{
-        
+    function plats(Request $request): Response{
+
     }
 
     #[Route(path: '/plats/{categorie_id}', name: 'plats_categorie.show')]
-    function categorie(Request $request): Response{
+    function plat_categorie(Request $request): Response{
         
     }
 }
