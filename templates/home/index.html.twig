@@ -5,9 +5,31 @@
 {% endblock %}
 
 {% block body %}
+	{# Ajout d'un conteneur pour centrer la grille et définir une largeur maximale #}
+	<div
+		class="container mx-auto px-4">
+		{# Ajout de marges verticales (my-8) #}
+		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 my-8">
+			{% for categorie in categories %}
+				<div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
+					<a
+						href="#">
+						{# Standardisation de la taille de l'image #}
+						<img class="rounded-t-lg h-48 w-full object-cover" src="{{ asset('image/Category/' ~ categorie.image) }}" alt="{{ categorie.libelle }}"/>
+						<div class="p-5">
+							<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{{ categorie.libelle }}</h5>
+							<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+								{{ categorie.description }}
+							</p>
+						</div>
+					</a>
+				</div>
+			{% endfor %}
+		</div>
 
-	<h1 class="text-3xl font-bold underline bg-orange-800">
-      Hello world!
-    </h1>
-
+		{# Ajout des contrôles de pagination #}
+		<div class="navigation my-8 flex justify-center">
+			{{ knp_pagination_render(categories) }}
+		</div>
+	</div>
 {% endblock %}

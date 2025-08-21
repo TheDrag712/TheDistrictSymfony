@@ -24,6 +24,9 @@ class Categorie
     #[ORM\Column]
     private ?bool $active = null;
 
+    #[ORM\Column(type: 'text', nullable: true)]
+    private ?string $description = null;
+
     /**
      * @var Collection<int, Plat>
      */
@@ -72,6 +75,18 @@ class Categorie
     public function setActive(bool $active): static
     {
         $this->active = $active;
+
+        return $this;
+    }
+
+    public function getDescription(): ?string
+    {
+        return $this->description;
+    }
+
+    public function setDescription(?string $description): static
+    {
+        $this->description = $description;
 
         return $this;
     }

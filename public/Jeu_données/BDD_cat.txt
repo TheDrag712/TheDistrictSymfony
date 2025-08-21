@@ -1,0 +1,50 @@
+1;asian_food;"Découvrez les saveurs de l'Asie, des plats épicés aux mets délicats.";asian_food_cat.jpg;1
+2;burger;"Une sélection de burgers savoureux, du classique au plus original.";burger_cat.jpg;1
+3;pizza;Des pizzas fraîchement préparées avec des ingrédients de qualité.;pizza_cat.jpg;1
+4;fast_food;"Pour une envie rapide et gourmande, tous vos plats préférés sont ici.";fast_food_cat.jpg;1
+5;sushi;"Plongez dans l'univers délicat des sushis, makis et sashimis.";sushi_cat.jpg;1
+6;salade;Des salades fraîches et équilibrées pour un repas léger et sain.;salad_cat.jpg;1
+7;dessert;"Terminez votre repas avec une note sucrée : gâteaux, tartes, et plus encore.";dessert_cat.jpg;1
+8;sandwich;"Une variété de sandwichs, du simple jambon-fromage aux créations plus élaborées.";sandwich_cat.jpg;1
+9;boisson;"Rafraîchissez-vous avec notre choix de boissons, de l'eau aux sodas.";drink_cat.jpg;1
+10;fruits_de_mer;"Les trésors de l'océan dans votre assiette, de l'entrée au plat principal.";seafood_cat.jpg;1
+11;vegetarien;"Des plats savoureux sans viande, pour les végétariens et tous les gourmands.";vegetarian_cat.jpg;1
+12;vegan;"Des plats 100% végétaliens, respectueux des animaux et de l'environnement.";vegan_cat.jpg;1
+13;cuisine_mexicaine;Laissez-vous tenter par les saveurs épicées et ensoleillées du Mexique.;mexican_food_cat.jpg;1
+14;cuisine_italienne;Un voyage culinaire en Italie avec des plats authentiques et généreux.;italian_food_cat.jpg;1
+15;petit_dejeuner;Commencez la journée du bon pied avec notre sélection pour le petit-déjeuner.;breakfast_cat.jpg;1
+16;brunch;"Le parfait mélange entre petit-déjeuner et déjeuner, idéal pour le week-end.";brunch_cat.jpg;1
+17;chinois;Découvrez la richesse et la diversité de la cuisine traditionnelle chinoise.;chinese_food_cat.jpg;1
+18;indien;Un festival de couleurs et d'épices avec nos plats indiens typiques.;indian_food_cat.jpg;1
+19;thai;"L'équilibre parfait entre épicé, sucré, salé et acide de la cuisine thaïlandaise.";thai_food_cat.jpg;1
+20;grec;"Voyagez en Grèce avec nos mezzes, salades et plats traditionnels.";greek_food_cat.jpg;1
+21;tapas;Partagez un moment convivial avec une sélection de nos meilleures tapas.;tapas_cat.jpg;1
+22;soupes;"Des soupes chaudes et réconfortantes, idéales pour se réchauffer.";soup_cat.jpg;1
+23;salades_composees;Des repas complets et équilibrés dans une seule assiette.;salad_meal_cat.jpg;1
+24;pates;"Des pâtes fraîches ou sèches, accommodées de différentes sauces savoureuses.";pasta_cat.jpg;1
+25;riz;"Une variété de plats à base de riz, du risotto au plat asiatique.";rice_cat.jpg;1
+26;sandwichs_gourmands;Des sandwichs aux ingrédients raffinés pour les plus gourmands.;gourmet_sandwich_cat.jpg;1
+27;burgers_vegetariens;"Des burgers aussi savoureux que les classiques, mais sans viande.";vegetarian_burger_cat.jpg;1
+28;pizzas_artisanales;Des pizzas préparées avec des techniques artisanales pour une saveur unique.;artisan_pizza_cat.jpg;1
+29;cocktails;Des créations uniques pour un apéritif ou une soirée réussie.;cocktail_cat.jpg;1
+30;jus_de_fruits;"Des jus de fruits frais et pressés, pleins de vitamines et de saveurs.";juice_cat.jpg;1
+31;smoothies;Des mélanges de fruits onctueux pour un encas sain et énergisant.;smoothie_cat.jpg;1
+32;cafe;"Du simple expresso au café gourmand, découvrez notre sélection.";coffee_cat.jpg;1
+33;the;Une variété de thés chauds ou glacés pour une pause détente.;tea_cat.jpg;1
+34;biere;Découvrez notre sélection de bières artisanales et internationales.;beer_cat.jpg;1
+35;vin;"Notre cave propose une sélection de vins rouges, blancs et rosés.";wine_cat.jpg;1
+36;fromage;Une sélection de fromages locaux et étrangers pour les amateurs.;cheese_cat.jpg;1
+37;charcuterie;Des assortiments de charcuterie de qualité pour accompagner vos apéritifs.;charcuterie_cat.jpg;1
+38;pain;"Des pains frais et croustillants, du pain de campagne à la baguette.";bread_cat.jpg;1
+39;viennoiserie;Les classiques de la boulangerie pour un petit-déjeuner gourmand.;viennoiserie_cat.jpg;1
+40;boulangerie;Tout le savoir-faire des artisans boulangers dans nos produits.;bakery_cat.jpg;1
+41;patisserie;Des gâteaux et pâtisseries fines pour toutes les occasions.;pastry_cat.jpg;1
+42;chocolat;Des créations chocolatées pour les plus gourmands.;chocolate_cat.jpg;1
+43;glaces;Des glaces et sorbets artisanaux pour se rafraîchir.;ice_cream_cat.jpg;1
+44;crepes;"Sucrées ou salées, nos crêpes sont préparées à la minute.";crepe_cat.jpg;1
+45;galettes;"Les galettes bretonnes traditionnelles, garnies selon vos envies.";galette_cat.jpg;1
+46;jus_vegetal;"Des jus et laits végétaux, une alternative saine et savoureuse.";plant_milk_cat.jpg;1
+47;plat_du_jour;Chaque jour un nouveau plat concocté avec des produits frais.;daily_special_cat.jpg;1
+48;menu_enfant;"Des menus adaptés aux petits, avec des plats simples et équilibrés.";kids_menu_cat.jpg;1
+49;snack;Des encas salés et sucrés pour les petites faims.;snack_cat.jpg;1
+50;traiteur;"Des plats préparés, prêts à être dégustés chez vous ou au bureau.";caterer_cat.jpg;1
